@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Players
+  - Player2
+  - Ball
+  - Wall
+  - Line1
+  - Line2
+  - GoalNotice
+  - Ultimate
+  - Aura
+  - Aura2
+  - Ultimate2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Goal
+  - Player1
+  - Aura
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Canvas
+    uniqueID: 1689695151
+    locked: 0
+  - name: Aura
+    uniqueID: 1858108371
+    locked: 0
+  - name: Goal
+    uniqueID: 1030154309
+    locked: 0
+  - name: Player
+    uniqueID: 1283533755
+    locked: 0
