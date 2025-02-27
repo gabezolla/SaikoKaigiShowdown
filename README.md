@@ -1,5 +1,7 @@
 # 🎮 SAIKŌ KAIGI SHOWDOWN
 
+![image](https://github.com/user-attachments/assets/77e2ca3c-2bcc-4a7b-a805-e759217c60d4)
+
 ## ⚽ Sobre o Jogo
 
 **SAIKŌ KAIGI SHOWDOWN** é um jogo de futebol 1v1 que traz uma abordagem diferente e inovadora ao gênero esportivo. Com gráficos 2D e jogabilidade dinâmica, os jogadores devem se movimentar pelo campo utilizando mecânicas especiais, poderes únicos e itens estratégicos para marcar gols e vencer a partida.
